@@ -1,6 +1,6 @@
 # Welcome to Apex 👋
 
-![Apex Logo](assets/img/apx-logo-2023-alt.png | width=150)
+<img src="https://github.com/apxops/.github/assets/136211052/76cadef6-4900-4a90-872a-b3beb153d777" width="150">
 
 ## Our Mission :rocket:
 
