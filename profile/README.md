@@ -1,6 +1,6 @@
 # Welcome to Apex 👋
 
-![Apex Logo](assets/img/apx-logo-2023-alt.png)
+![Apex Logo](assets/img/apx-logo-2023-alt.png | width=150)
 
 ## Our Mission :rocket:
 
