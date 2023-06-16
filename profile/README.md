@@ -1,6 +1,6 @@
 # Welcome to Apex 👋
 
-![Apex Logo](link_to_apex_logo_here)
+![Apex Logo](assets/img/logo-apex.png)
 
 ## Our Mission :rocket:
 
